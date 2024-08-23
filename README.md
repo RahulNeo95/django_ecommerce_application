@@ -18,7 +18,7 @@ Preview
 )](#features)
 
 
-* After order confirmation process, the user is redirected to checkout page with shipping and payment options.
+* After order confirmation process, the user is directed to checkout page with shipping and payment options.
 
 Preview
 [![error displaying image](https://github.com/RahulNeo95/django_ecommerce_application/blob/master/preview/img3.PNG
